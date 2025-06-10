@@ -1,0 +1,6 @@
+bank\cuenta\CuentaBancaria.class
+bank\cuenta\CuentaCorriente.class
+bank\cuenta\CuentaAhorros.class
+bank\cuenta\CuentaDigital.class
+com\mycompany\bank_europe\Bank_Europe.class
+bank\cliente\InfoCliente.class
